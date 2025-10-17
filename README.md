@@ -8,9 +8,10 @@
 </div>
 <br>
 <div align="center">
-  <img src="[https://github.com/DanieleJacob/E-mail-marketing/blob/main/images/127.0.0.1_5500_E-mail-marketing_index.html(iPhone%206_7_8).png?raw=true](https://github.com/DanieleJacob/E-mail-institucional/blob/main/images/Captura%20de%20tela%202025-10-17%20180901.png)" width= 250px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/DanieleJacob/E-mail-marketing/blob/main/images/127.0.0.1_5500_E-mail-marketing_index.html(iPhone%206_7_8).png?raw=true" width= 250px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/DanieleJacob/E-mail-marketing/blob/main/images/Captura%20de%20tela%202024-06-04%20100918.png?raw=true" width= 250px valign="top">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/DanieleJacob/E-mail-marketing/blob/main/images/Captura%20de%20tela%202024-06-04%20100946.png?raw=true" width= 250px valign="top">
 </div>
+
 
