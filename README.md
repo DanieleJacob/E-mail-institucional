@@ -70,10 +70,11 @@ O template foi criado do zero, seguindo padrões profissionais de HTML para e-ma
 <br>
 <div align="center">
   <img src="https://github.com/DanieleJacob/E-mail-institucional/blob/main/images/Captura%20de%20tela%202025-10-17%20180838.png?raw=true" width=250px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/DanieleJacob/E-mail-marketing/blob/main/images/Captura%20de%20tela%202024-06-04%20100918.png?raw=true" width= 250px valign="top">
+  <img src="https://github.com/DanieleJacob/E-mail-institucional/blob/main/images/Captura%20de%20tela%202025-10-17%20180853.png?raw=true" width= 250px valign="top">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/DanieleJacob/E-mail-marketing/blob/main/images/Captura%20de%20tela%202024-06-04%20100946.png?raw=true" width= 250px valign="top">
 </div>
+
 
 
 
